@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Jasonyecyec.visitor-badge&left_text=MyPageVisitors)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasonyecyec)](https://github.com/Jasonyecyec/github-readme-stats)
                 
