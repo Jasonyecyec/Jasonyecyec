@@ -1,6 +1,6 @@
-<p align="center">
-<h1> Hi there 👋<h1/>
-</p>
+
+  <h1 align="center"> Hi, I'm Jason Yecyec 👋<h1/>
+
 
 <!--
 **Jasonyecyec/Jasonyecyec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
