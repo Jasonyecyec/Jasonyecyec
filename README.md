@@ -1,7 +1,7 @@
 
   <h1 align="center"> Hi, I'm Jason Yecyec 👋<h1/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A8FF7&lines=Aspiring+to+be+a+Full-stack+developer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A8FF7&lines=Aspiring+to+be+a+Full-stack+developer&vCenter=true)](https://git.io/typing-svg)
 
   
   
