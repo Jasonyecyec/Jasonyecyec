@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitor badge](https://Jasonyecyec.glitch.me/badge?page_id=Jasonyecyec.Jasonyecyec&left_text=MyPageVisitors)
+![visitor badge](https://Jasonyecyec.glitch.me/badge?page_id=Jasonyecyec.visitor-badge&left_text=MyPageVisitors)
                 
