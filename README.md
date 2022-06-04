@@ -1,7 +1,7 @@
 
   <h1 align="center"> Hi, I'm Jason Yecyec 👋<h1/>
   
-![Facebook](https://img.shields.io/badge/Facebook-%.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%https://www.facebook.com/jason.yecyec.5/?style=for-the-badge&logo=Facebook&logoColor=white)
   
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A8FF7&center=true&width=1000&height=100&lines=Aspiring+to+be+a+Full-stack+developer;Nice+to+meet+you+...)](https://git.io/typing-svg)
