@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A8FF7&center=true&width=1000&height=100&lines=Aspiring+to+be+a+Full-stack+developer;Nice+to+meet+you+...)](https://git.io/typing-svg)
 --
   ### 🔧 Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,spring,react,tailwind,mysql,figma,git,github,vscode&theme=light)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,spring,react&theme=dark,tailwind,mysql,figma,git,github,vscode&theme=light)
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasonyecyec&show_icons=true&theme=tokyonight)](https://github.com/Jasonyecyec/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonyecyec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
