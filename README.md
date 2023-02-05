@@ -1,6 +1,6 @@
 
   <h1 align="center" > Hi, I'm Jason Yecyec 👋 (💻☕📖)</h1>
-  ![](https://komarev.com/ghpvc/?username=Jasonyecyec&style=flat-square)
+  ![](https://komarev.com/ghpvc/?username=Jason S. Yecyec&style=flat-square)
 
   
   <p align="center">
