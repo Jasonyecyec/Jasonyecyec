@@ -1,5 +1,7 @@
 
   <h1 align="center" > Hi, I'm Jason Yecyec 👋 (💻☕📖)</h1>
+  ![](https://komarev.com/ghpvc/?username=Jasonyecyec&style=flat-square)
+
   
   <p align="center">
  <a href="https://www.facebook.com/jason.yecyec.5/"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white"></img></a>
