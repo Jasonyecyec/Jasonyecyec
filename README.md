@@ -15,6 +15,10 @@
   ### 🔧 Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,spring,react,tailwind,mysql,figma,git,github,vscode)
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasonyecyec&show_icons=true&theme=cobalt)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonyecyec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jasonyecyec" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jasonyecyec&layout=compact&langs_count=8&card_width=400" />
+</a>
 
