@@ -15,8 +15,6 @@
   ### 🔧 Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,spring,react,tailwind,mysql,figma,git,github,vscode)
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasonyecyec&show_icons=true&theme=tokyonight)](https://github.com/Jasonyecyec/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonyecyec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasonyecyec&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasonyecyec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
