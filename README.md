@@ -9,7 +9,7 @@
    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jasonyecyec&label=Profile%20views&color=0e75b6&style=flat" alt="comethalley" /> </p>
 
-- 🌱 I’m currently learning **React.js, Spring Boot , AWS**
+- 🌱 I’m currently learning **Docker, TypeScript , React native/expo**
 - 💡  Using chatgpt is also a skill
 - 📫  How to reach me **jason.yecyec023@gmail.com**
   
